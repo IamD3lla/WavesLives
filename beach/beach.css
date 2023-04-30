@@ -1,0 +1,27 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.morning {
+    background-image: url(../images/morning_background.jpg);
+    background-size: 100%;
+    position: fixed;
+}
+
+.afternoon {
+    background-image: url(../images/afternoon_background.jpg);
+    background-size: 100%;
+    position: fixed;
+}
+
+.night{
+    background-image: url(../images/night_background.jpg);
+    background-size: 100%;
+    position: fixed;
+}
+
+#whale {
+    margin-top: 280px;
+    margin-left: 56px;
+}
